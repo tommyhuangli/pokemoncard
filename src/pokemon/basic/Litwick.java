@@ -7,6 +7,6 @@ public class Litwick {
 	int healthPoint = 50;
 
 
-	Attack attack = new Attack("Flickering Flames", 10);
+	Attack attack = new Attack("Flickering Flames", 10, 50);
 	
 }

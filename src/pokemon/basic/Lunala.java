@@ -7,7 +7,7 @@ public class Lunala {
 	int healthPoint = 160;
 	int shotterShot = 40;
 	
-	Attack attack = new Attack ("Wings of he Moone", 130);
+	Attack attack = new Attack ("Wings of the Moone", 130, 2);
 
 	public int getHealthPoint() {
 		return healthPoint;
